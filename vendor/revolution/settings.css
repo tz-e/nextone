@@ -126,6 +126,8 @@ website:   	http://www.themepunch.com
 	padding:0px;
 	border-width:0px;
 	border:none;
+    filter: blur(5px);
+  -webkit-filter: blur(5px);
 }
 
 .rev_slider .no-slides-text{

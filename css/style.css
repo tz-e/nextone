@@ -410,10 +410,12 @@ animation-delay: .8s;
 
  ***/
 .rev_slider_wrapper {
+    
   background: #000;
 }
+
 .banner h1,.banner h6,.banner .project-button {
-  color:#fff;
+  color:#f5f4f4;
 }
 .banner h6 {
   font-weight: 500;
@@ -1620,4 +1622,15 @@ footer p {
 }
 .blog-details-post-wrapper .post-comment form button:hover {
   background:#fff;
+}
+
+
+/* MY STUFF */
+.blur-img{
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+#rev_slider_wrapper img{
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
 }
