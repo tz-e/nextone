@@ -252,8 +252,8 @@ animation-delay: .8s;
 }
 .p-color,.theme-main-menu .navbar-nav>li.active>a,
 .theme-main-menu .navbar-nav>li>a:hover,#about-us .single-about-content:hover h5 a,
-#service-section .single-service-content:hover  .icon,
-#service-section .single-service-content:hover  h6 a,
+#service-section .single-service-content:hover .icon-heading .icon,
+#service-section .single-service-content:hover .icon-heading h6 a,
 #pricing-section .single-price-table a:hover,#blog-section .single-news-item .img a,
 #blog-section .single-news-item:hover .post p a,#blog-section .single-news-item .post h6:hover a,
 #contact-section .contact-address-content .left-side ul li:hover .icon,
@@ -520,10 +520,10 @@ animation-delay: .8s;
   text-transform: capitalize;
   margin-top: 33px;
 }
-#service-section   {
+#service-section .single-service-content:hover .icon-heading {
   top:-10px;
 }
-#service-section .single-service-content:hover  {
+#service-section .single-service-content:hover p {
   opacity: 1;
   color: #fff;
   -webkit-transform: translate3D(0,0,0);
