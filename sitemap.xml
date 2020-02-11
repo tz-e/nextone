@@ -8,13 +8,23 @@
 
 
 <url>
-  <loc>http://www.nextone.mx/</loc>
-  <lastmod>2020-01-27T16:20:48+00:00</lastmod>
+  <loc>https://www.nextone.mx/</loc>
+  <lastmod>2020-02-09T15:46:09+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.nextone.mx/index.html</loc>
-  <lastmod>2020-01-27T16:20:48+00:00</lastmod>
+  <loc>https://www.nextone.mx/index.html</loc>
+  <lastmod>2020-02-09T15:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nextone.mx/index-en.html</loc>
+  <lastmod>2020-02-09T15:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nextone.mx/index-ru.html</loc>
+  <lastmod>2020-02-09T15:46:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
